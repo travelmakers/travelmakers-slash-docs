@@ -114,6 +114,14 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: '3JGHZ7HT9C',
+        apiKey: '6b82a502b0a64db1b0446b77692f6ea2',
+        siteId: '',
+        indexName: 'travelmakers',
+        branch: 'main',
+        contextualSearch: true,
+      },
     }),
 };
 
