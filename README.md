@@ -1,4 +1,4 @@
-# [Slash](https://slash.page) 라이브러리 &middot; [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/travelmakers/travelmakers-slash-docs/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/travelmakers/travelmakers-slash-docs/blob/main/.github/CONTRIBUTING.md)
+# [Slash](https://travelmakers.github.io/travelmakers-slash-docs/) 라이브러리 &middot; [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/travelmakers/travelmakers-slash-docs/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/travelmakers/travelmakers-slash-docs/blob/main/.github/CONTRIBUTING.md)
 
 Slash 라이브러리는 [트래블메이커스](https://www.livinginhotel.com/)에서 사용하는 TypeScript/JavaScript 패키지들이에요. 좋은 웹 서비스를 만들 수 있는 기반으로 사용할 수 있도록 npm 패키지를 제공하고 있어요.
 
