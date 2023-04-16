@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9864],{5760:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/travelmakers-slash-docs/blog/tags/hello","allTagsPath":"/travelmakers-slash-docs/blog/tags","count":2}')}}]);
