@@ -114,9 +114,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // docker run -it --env-file=.env -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper
       algolia: {
         appId: '3JGHZ7HT9C',
-        apiKey: '6b82a502b0a64db1b0446b77692f6ea2',
+        apiKey: 'ac62df380fba9242bb5353b6647cb0cd',
         indexName: 'travelmakers',
         contextualSearch: true,
         // siteId: '',
